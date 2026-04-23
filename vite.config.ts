@@ -7,7 +7,7 @@ export default defineConfig(({mode}) => {
   const env = loadEnv(mode, '.', '');
   return {
     plugins: [react(), tailwindcss()],
-    base: '/訊號取樣與零階保持/',
+    base: '/zoh-simulator/',
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
