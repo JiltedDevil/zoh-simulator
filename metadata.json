@@ -1,0 +1,6 @@
+{
+  "name": "Signal Sampling & ZOH Simulator",
+  "description": "A control systems tool to visualize continuous signals, discrete sampling, and Zero-Order Hold (ZOH) reconstruction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
